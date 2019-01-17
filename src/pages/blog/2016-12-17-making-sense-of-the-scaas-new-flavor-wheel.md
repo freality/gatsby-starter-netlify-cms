@@ -9,6 +9,7 @@ tags:
   - flavor
   - tasting
   - news
+  - good stuff
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
