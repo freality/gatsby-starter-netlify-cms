@@ -9,6 +9,7 @@ description: >-
 tags:
   - brewing
   - chemex
+  - testing
 ---
 ![chemex](/img/chemex.jpg "chemex pot on table")
 
