@@ -10,6 +10,7 @@ tags:
   - brewing
   - chemex
   - testing
+  - hello world
 ---
 ![chemex](/img/chemex.jpg "chemex pot on table")
 
